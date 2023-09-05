@@ -50,9 +50,7 @@ Install dependencies
 ```bash
   pip install -r requirements.txt
 ```
-```bash
-  pip3 install --upgrade BingImageCreator
-```
+
 Start the app
 
 ```bash
